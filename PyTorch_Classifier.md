@@ -275,7 +275,7 @@ print('Time taken on GPU:',time.time() - t)
     Time taken on GPU: 174.4679172039032
 
 
-### Training took ~ 270 secs on CPU and ~174 secs on GTX 1050 GPU
+### Training took ~ 270 secs on CPU and ~174 secs on GTX 1050 GPU.
 
 
 ```python
